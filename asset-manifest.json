@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f699b12c.css",
+    "main.js": "/static/js/main.44c5acd8.js",
+    "static/js/453.8bf8d958.chunk.js": "/static/js/453.8bf8d958.chunk.js",
+    "static/media/some_person_coding_cropped.jpg": "/static/media/some_person_coding_cropped.a03dc906f076f9b76401.jpg",
+    "static/media/some_person_coding.jpg": "/static/media/some_person_coding.2b006b28a6e23b2a839a.jpg",
+    "static/media/placeholder_girl_coding.jpeg": "/static/media/placeholder_girl_coding.50935bf8181ef2c081fd.jpeg",
+    "static/media/placeholder_macbook_scratch.png": "/static/media/placeholder_macbook_scratch.853015e40e15b6b51c74.png",
+    "static/media/scratch_ice_bird.png": "/static/media/scratch_ice_bird.aa5b48972b564afbf69a.png",
+    "static/media/placeholder_sec.jpeg": "/static/media/placeholder_sec.d0e771c45387ef24df7f.jpeg",
+    "static/media/placeholder_women_by_computer.jpg": "/static/media/placeholder_women_by_computer.da385f13180c20d3cc6a.jpg",
+    "static/media/logo1024.png": "/static/media/logo1024.b76ebb078a33df8043ad.png",
+    "index.html": "/index.html",
+    "main.f699b12c.css.map": "/static/css/main.f699b12c.css.map",
+    "main.44c5acd8.js.map": "/static/js/main.44c5acd8.js.map",
+    "453.8bf8d958.chunk.js.map": "/static/js/453.8bf8d958.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f699b12c.css",
+    "static/js/main.44c5acd8.js"
+  ]
+}
