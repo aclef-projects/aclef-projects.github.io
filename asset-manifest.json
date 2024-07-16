@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.dd830a03.css",
-    "main.js": "/static/js/main.3eeac443.js",
+    "main.js": "/static/js/main.b3dc4343.js",
     "static/js/453.8bf8d958.chunk.js": "/static/js/453.8bf8d958.chunk.js",
+    "static/media/children_with_robots_cropped.jpg": "/static/media/children_with_robots_cropped.fe484d37ed34ef14e254.jpg",
     "static/media/some_person_coding_cropped.jpg": "/static/media/some_person_coding_cropped.a03dc906f076f9b76401.jpg",
     "static/media/some_person_coding.jpg": "/static/media/some_person_coding.2b006b28a6e23b2a839a.jpg",
     "static/media/children_with_robots.jpg": "/static/media/children_with_robots.e645a9975ea0e5c8d49c.jpg",
@@ -10,14 +11,15 @@
     "static/media/women_coding.jpg": "/static/media/women_coding.6d2bd32a7ea462181f29.jpg",
     "static/media/aclef_office.png": "/static/media/aclef_office.c0c120dfb07602da18d0.png",
     "static/media/aclef_office_cropped.png": "/static/media/aclef_office_cropped.f7d7c0f01812f2da2953.png",
+    "static/media/logo_cropped.png": "/static/media/logo_cropped.db816053e11590971bfc.png",
     "static/media/logo1024.png": "/static/media/logo1024.b76ebb078a33df8043ad.png",
     "index.html": "/index.html",
     "main.dd830a03.css.map": "/static/css/main.dd830a03.css.map",
-    "main.3eeac443.js.map": "/static/js/main.3eeac443.js.map",
+    "main.b3dc4343.js.map": "/static/js/main.b3dc4343.js.map",
     "453.8bf8d958.chunk.js.map": "/static/js/453.8bf8d958.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd830a03.css",
-    "static/js/main.3eeac443.js"
+    "static/js/main.b3dc4343.js"
   ]
 }
